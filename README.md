@@ -22,7 +22,7 @@ With its casual and fun gameplay and over 50 levels, it provides hours of entert
    1. **Download the Project:**
    Clone or download the project from this repository.
    
-          $ git clone https://github.com/shoganaix/Nonograms.git
+          $ git clone https://github.com/shoganaix/3DNonogram.git
    
           $ cd ../path/to/the/file
 
