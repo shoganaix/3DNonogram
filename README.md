@@ -1,13 +1,17 @@
-## Table of Contents
-- General Info
-- Updates
-- Installation
-- Team
+# 3D Nonogram Game
+> <p> Additional Note: This game is currently under development </p>
+
+# Index
+* [General Info](#general-info)
+* [Updates](#updates)
+* [Installation](#installation)
+* [Team](#team)
 
 ## General Info
 
-NameInProgress is a puzzle game that challenges players to uncover hidden 3D pieces by strategically filling in blocks within a three-dimensional grid.
-With its casual and fun gameplay and over 50 levels, it provides hours of entertainment to the players and brain-teasing excitement.
+**NameInProgress** is a puzzle game that challenges players to uncover hidden 3D pieces by strategically filling in blocks within a three-dimensional grid.
+
+With its casual and fun gameplay and over **50 levels**, it provides hours of entertainment and brain-teasing excitement.
 
 ## Updates
 - [x] Camera Movement
